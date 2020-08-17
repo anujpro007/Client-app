@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492933781787",
+    "firebase_url": "https://travelcraft01-a122e.firebaseio.com",
+    "project_id": "travelcraft01-a122e",
+    "storage_bucket": "travelcraft01-a122e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492933781787:android:204ea895c22f1cb6141bbe",
+        "android_client_info": {
+          "package_name": "com.example.travel_craft_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492933781787-9ah1jopvd20cm3i4lb9hp19laqv08lkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJfuN2DnuxTcXfU-R8YPDpASBn5v3YaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492933781787-9ah1jopvd20cm3i4lb9hp19laqv08lkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
